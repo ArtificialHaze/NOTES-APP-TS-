@@ -1,0 +1,2 @@
+# NOTES-APP-TS-
+Notes App with REACT+REDUX+TYPESCRIPT.
